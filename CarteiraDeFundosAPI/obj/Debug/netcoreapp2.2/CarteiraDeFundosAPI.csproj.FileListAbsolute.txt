@@ -1,0 +1,14 @@
+C:\Users\Rafael Oliveira\source\repos\CarteiraDeFundosAPI\CarteiraDeFundosAPI\bin\Debug\netcoreapp2.2\CarteiraDeFundosAPI.deps.json
+C:\Users\Rafael Oliveira\source\repos\CarteiraDeFundosAPI\CarteiraDeFundosAPI\bin\Debug\netcoreapp2.2\CarteiraDeFundosAPI.runtimeconfig.json
+C:\Users\Rafael Oliveira\source\repos\CarteiraDeFundosAPI\CarteiraDeFundosAPI\bin\Debug\netcoreapp2.2\CarteiraDeFundosAPI.runtimeconfig.dev.json
+C:\Users\Rafael Oliveira\source\repos\CarteiraDeFundosAPI\CarteiraDeFundosAPI\bin\Debug\netcoreapp2.2\CarteiraDeFundosAPI.dll
+C:\Users\Rafael Oliveira\source\repos\CarteiraDeFundosAPI\CarteiraDeFundosAPI\bin\Debug\netcoreapp2.2\CarteiraDeFundosAPI.pdb
+C:\Users\Rafael Oliveira\source\repos\CarteiraDeFundosAPI\CarteiraDeFundosAPI\obj\Debug\netcoreapp2.2\CarteiraDeFundosAPI.csprojAssemblyReference.cache
+C:\Users\Rafael Oliveira\source\repos\CarteiraDeFundosAPI\CarteiraDeFundosAPI\obj\Debug\netcoreapp2.2\CarteiraDeFundosAPI.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Oliveira\source\repos\CarteiraDeFundosAPI\CarteiraDeFundosAPI\obj\Debug\netcoreapp2.2\CarteiraDeFundosAPI.RazorAssemblyInfo.cache
+C:\Users\Rafael Oliveira\source\repos\CarteiraDeFundosAPI\CarteiraDeFundosAPI\obj\Debug\netcoreapp2.2\CarteiraDeFundosAPI.RazorAssemblyInfo.cs
+C:\Users\Rafael Oliveira\source\repos\CarteiraDeFundosAPI\CarteiraDeFundosAPI\obj\Debug\netcoreapp2.2\CarteiraDeFundosAPI.AssemblyInfoInputs.cache
+C:\Users\Rafael Oliveira\source\repos\CarteiraDeFundosAPI\CarteiraDeFundosAPI\obj\Debug\netcoreapp2.2\CarteiraDeFundosAPI.AssemblyInfo.cs
+C:\Users\Rafael Oliveira\source\repos\CarteiraDeFundosAPI\CarteiraDeFundosAPI\obj\Debug\netcoreapp2.2\CarteiraDeFundosAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Rafael Oliveira\source\repos\CarteiraDeFundosAPI\CarteiraDeFundosAPI\obj\Debug\netcoreapp2.2\CarteiraDeFundosAPI.dll
+C:\Users\Rafael Oliveira\source\repos\CarteiraDeFundosAPI\CarteiraDeFundosAPI\obj\Debug\netcoreapp2.2\CarteiraDeFundosAPI.pdb
